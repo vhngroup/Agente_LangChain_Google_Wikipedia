@@ -1,4 +1,5 @@
 # Uso LangChain junto a OpenIAChat, para consultas y respuestas, Consulta a Google y Wikipedia
+### Uso de LangChaing junto a OPENAI, nos conectamos a Google a Wikipedia y usamos agentes.
 ## Herramienta:
 En este ejemplo a través del prompt y de preguntas de lenguaje natural, se le puede pedir al modelo que respondan a interrogantes consultando Google Search y Wikipedia. 
 * Se ha usado la API de OpenAI junto a LangChain y el modelo "gpt-3.5-turbo-16k".
